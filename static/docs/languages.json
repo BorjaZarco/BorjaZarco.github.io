@@ -1,0 +1,26 @@
+[
+    {
+          "name": "Spanish",
+          "percentage": 100,
+          "color": "#C60B1E",
+          "secondaryColor": "#FFC400"
+    },
+    {
+          "name": "English",
+          "percentage": 100,
+          "color": "#001F7E",
+          "secondaryColor": "#D00C27"
+    },
+    {
+          "name": "German",
+          "percentage": 67,
+          "color": "#000000",
+          "secondaryColor": "#FFCE00"
+    },
+    {
+          "name": "Chinese",
+          "percentage": 10,
+          "color": "#DF1B12",
+          "secondaryColor": "#DF1B12"
+    }
+]

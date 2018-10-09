@@ -1,0 +1,74 @@
+[
+    {
+        "name": "Java",
+        "percentage": 70,
+        "color": "#5382A1",
+        "secondaryColor": "#35495e"
+    },
+    {
+        "name": "C",
+        "percentage": 60,
+        "color": "#7A99AC",
+        "secondaryColor": "#35495e"
+    },
+    {
+        "name": "Shell",
+        "percentage": 50,
+        "color": "#4C5351",
+        "secondaryColor": "#35495e"
+    },
+    {
+        "name": "R",
+        "percentage": 60,
+        "color": "#276DC2",
+        "secondaryColor": "#BFC2C5"
+    },
+    {
+        "name": "HTML",
+        "percentage": 80,
+        "color": "#e34f26",
+        "secondaryColor": "#e34f26"
+    },
+    {
+        "name": "CSS",
+        "percentage": 80,
+        "color": "#005eb8",
+        "secondaryColor": "#35495e"
+    },
+    {
+        "name": "JavaScript",
+        "percentage": 75,
+        "color": "#323330",
+        "secondaryColor": "#F0DB4F"
+    },
+    {
+        "name": "Vue",
+        "percentage": 70,
+        "color": "#42b883",
+        "secondaryColor": "#35495e"
+    },
+    {
+        "name": "Docker",
+        "percentage": 70,
+        "color": "#0db7ed",
+        "secondaryColor": "#384d54"
+    },
+    {
+        "name": "AWS",
+        "percentage": 50,
+        "color": "#ff9900",
+        "secondaryColor": "#ff9900"
+    },
+    {
+        "name": "Nodejs",
+        "percentage": 70,
+        "color": "#6cc24a",
+        "secondaryColor": "#215732"
+    },
+    {
+        "name": "Python",
+        "percentage": 30,
+        "color": "#ffde57",
+        "secondaryColor": "#4584b6"
+    }
+]
